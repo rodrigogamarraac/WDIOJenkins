@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3867","Renovar un libro eligiendo una fecha de 21 días","Administración de préstamos","2026-09-29","passed","2026-09-29","","","",""
+"","6020","Consultar el detalle y prestar un libro por 18 días","Préstamo de un libro por 18 días","2026-09-29","passed","2026-09-29","","","",""
+"","3943","Devolver un libro activo","Administración de préstamos","2026-09-29","passed","2026-09-29","","","",""
+"","7314","Registrar un usuario y prestar un libro por 6 días","Registro y préstamo de un libro por 6 días","2026-09-29","passed","2026-09-29","","","",""
+"","2411","Iniciar sesión correctamente","Inicio de sesión en Biblioteca QA","2026-09-29","passed","2026-09-29","","","",""
